@@ -1,7 +1,7 @@
 ---
 date: 2020-11-12T22:42:09Z
 title: Sunflower Sutra
-author: Boonoo's Father
+author: Allen Ginsberg
 hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 
 ---
